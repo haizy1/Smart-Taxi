@@ -78,8 +78,6 @@ Lorsque le passager accepte la requête du chauffeur, l’emplacement de sa dest
 
 ![Chemin plus court vers la destination](images/cheminCourt.png)
 
-## Outils
-
 ## Technologies Utilisées
 
 <table align="center">
